@@ -79,7 +79,7 @@ Some blockchains allow network participants to submit and vote on proposals that
 By submitting and voting on proposals—referenda—the blockchain community can determine how the blockchain evolves in an essentially democratic process.
 On-chain governance is relatively rare, however, and to participate, a blockchain might require users to maintain a significant stake of tokens in an account or to be selected as a representative for other users.
 
-## Applications running on a blockchain
+## Applications running on a blockchain . YES
 
 Applications that run on a blockchain—often referred to as decentralized applications or dApps—are typically web applications that are written using front-end frameworks but with backend **smart contracts** for changing the blockchain state.
 
